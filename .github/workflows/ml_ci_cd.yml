@@ -1,4 +1,4 @@
-name: Modelops deploy
+name: Housing deploy
 on:
   push:
     branches: [ master ]
